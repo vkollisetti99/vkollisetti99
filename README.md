@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vkollisetti99
-- 👀 I’m interested in contributing towards R and SAS Programming.
-- 🌱 I’m currently learning R programming and Advanced R programming techniques.
-- 💞️ I’m looking to collaborate on clinical data analysis, development of SDTM datasets, ADaM datasets, Table/Listing and Graph programming using R and SAS programming.
+- 👀 I’m interested in contributing towards R and SAS Programming. I bring in 11+ years of professional SAS programming experience in pharmaceutical and CRO industries.
+- 🌱 I’m currently learning R and Advanced R programming techniques.
+- 💞️ I’m looking to collaborate on clinical data analysis, development of SDTM datasets, ADaM datasets, Table/Listing and Graph programming using R and SAS programming. 
+- I can also help on Statistical analysis programming using SAS.
 - 📫 Contact me at Vishnu.Kollisetti@outlook.com.
 
 <!---
